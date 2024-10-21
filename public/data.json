@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "cover_photo": "https://i.postimg.cc/sDP5t7xk/gettyimages-185238205-2048x2048.jpg",
+        "product_name": "Stylish Backpack",
+        "product_image_1": "https://i.postimg.cc/X7WCcqLQ/optima-spear-20w50sn-1.png",
+        "product_image_2": "https://i.postimg.cc/8zPf9Yqv/optima-spear-extreme-5w40-sn-pluscf-fully-synthetic.png",
+        "product_description_1": "A stylish and spacious backpack perfect for school and travel.",
+        "product_description_2": "Made from durable materials with multiple compartments for organization."
+    },
+    {
+        "id": 2,
+        "cover_photo": "https://i.postimg.cc/hjH9q09B/gettyimages-1824535836-2048x2048.jpg",
+        "product_name": "Wireless Earbuds",
+        "product_image_1": "https://i.postimg.cc/JzntPkkc/02.png",
+        "product_image_2": "https://i.postimg.cc/nr2c1FVP/04.png",
+        "product_description_1": "High-quality sound with noise cancellation features.",
+        "product_description_2": "Compact and portable design for music on the go."
+    },
+    {
+        "id": 3,
+        "cover_photo": "https://i.postimg.cc/2Sm76Tgj/gettyimages-1325588832-2048x2048.jpg",
+        "product_name": "Smartwatch",
+        "product_image_1": "https://i.postimg.cc/8zPf9Yqv/optima-spear-extreme-5w40-sn-pluscf-fully-synthetic.png",
+        "product_image_2": "https://i.postimg.cc/qvh4NXKY/optima-classic-sae40-cf.png",
+        "product_description_1": "Track your fitness and stay connected with this sleek smartwatch.",
+        "product_description_2": "Features heart rate monitoring, notifications, and customizable watch faces."
+    },
+    {
+        "id": 4,
+        "cover_photo": "https://i.postimg.cc/L58M2zRx/01-1720086819.png",
+        "product_name": "Portable Blender",
+        "product_image_1": "https://i.postimg.cc/KvVyhkW5/02-170316366.png",
+        "product_image_2": "https://i.postimg.cc/KvVyhkW5/02-170316366.png",
+        "product_description_1": "Blend smoothies and shakes on the go with this portable blender.",
+        "product_description_2": "Rechargeable battery with easy-to-clean components."
+    },
+    {
+        "id": 5,
+        "cover_photo": "https://i.postimg.cc/Ss5Gx4bH/gettyimages-697561613-2048x2048.jpg",
+        "product_name": "Yoga Mat",
+        "product_image_1": "https://i.postimg.cc/vHCCNR1q/optima-cool-max-longlife-coolant-5050.png",
+        "product_image_2": "https://i.postimg.cc/vHCCNR1q/optima-cool-max-longlife-coolant-5050.png",
+        "product_description_1": "Eco-friendly yoga mat with a non-slip surface.",
+        "product_description_2": "Perfect for home workouts and outdoor sessions."
+    },
+    {
+        "id": 6,
+        "cover_photo": "https://i.postimg.cc/HkCBMT8g/gettyimages-2162955619-2048x2048.jpg",
+        "product_name": "LED Desk Lamp",
+        "product_image_1": "https://i.postimg.cc/2yM9Mv5b/optima-hydraulic-32aw-46-aw68-aw100-aw.png",
+        "product_image_2": "https://i.postimg.cc/2yM9Mv5b/optima-hydraulic-32aw-46-aw68-aw100-aw.png",
+        "product_description_1": "Adjustable LED desk lamp with multiple brightness settings.",
+        "product_description_2": "Ideal for reading, studying, or working late at night."
+    }
+]

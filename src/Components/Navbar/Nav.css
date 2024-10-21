@@ -1,0 +1,17 @@
+.navbar {
+    /* position:inherit; */
+    /* top:200px; */
+    /* position: relative;
+    z-index:1;
+     */
+    /* width: 100%; */
+    /* text-align: center; */
+    /* position:fixed; */
+    /* top:100px; */
+    /* z-index:1; */
+    position: relative;
+    top: px !important;
+    z-index:999;
+    /* width:100%; */
+    background:none;
+};
