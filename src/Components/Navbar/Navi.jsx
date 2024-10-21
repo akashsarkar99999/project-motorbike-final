@@ -1,6 +1,7 @@
 import '../Navbar/Nav.css'
 import Slider from '../Slider/Slider';
 import navpic from '../../assets/header.png.png'
+import { NavLink } from 'react-router-dom';
 
 const Navi = () => {
   return (
@@ -12,7 +13,7 @@ const Navi = () => {
   </div>
   <div className="flex-none">
     <ul className="menu menu-horizontal px-1 font-inter text-[13px] text-white">
-      <li><a>HOME</a></li>
+      <li><NavLink to="/">HOME</NavLink></li>
       <li>
         <details>
           <summary>OUR PRODUCTS</summary>
